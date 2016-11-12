@@ -8,7 +8,7 @@
 [![dependency Status](https://img.shields.io/david/lgaticaq/diceware-generator.svg?style=flat-square)](https://david-dm.org/lgaticaq/diceware-generator#info=dependencies)
 [![devDependency Status](https://img.shields.io/david/dev/lgaticaq/diceware-generator.svg?style=flat-square)](https://david-dm.org/lgaticaq/diceware-generator#info=devDependencies)
 
-A diceware generator
+> A diceware generator
 
 ## Installation
 
@@ -42,3 +42,7 @@ const pass = dwGen(options);
 console.log(pass);
 // "lavender lunacy quickness ladybug playful reaffirm"
 ```
+
+## License
+
+[MIT](https://tldrlegal.com/license/mit-license)
