@@ -43,10 +43,10 @@
     "codeclimate-test-reporter": "^0.4.0",
     "coveralls": "^2.11.15",
     "diceware-wordlist-en-eff": "^1.0.1",
-    "eslint": "^3.10.0",
-    "generate-changelog": "^1.0.2",
+    "eslint": "^3.12.2",
+    "generate-changelog": "^1.1.0",
     "istanbul": "^0.4.5",
-    "mocha": "^3.1.2"
+    "mocha": "^3.2.0"
   },
   "eslintConfig": {
     "env": {
